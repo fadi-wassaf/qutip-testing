@@ -12,7 +12,7 @@ Wigner function plots of the excitation due to the perturbation applied:
 
 ## Wigner functions of Cat States and Mixed States of the Coherent State
 
-For a the coherent state
+For the coherent state
 
 ![coherent](https://latex.codecogs.com/svg.latex?\left|%20\alpha%20\right%3E%20=%20e^{-\frac{1}{2}|\alpha|^2}\sum_{n=0}^{\infty}\frac{\alpha^n}{\sqrt{n!}}\left|n\right%3E)
 
